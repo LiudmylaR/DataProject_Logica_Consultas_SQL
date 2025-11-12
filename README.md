@@ -9,7 +9,7 @@ Este proyecto recopila una serie de consultas SQL diseñadas para practicar la l
 * Optimización y buenas prácticas: la claridad del código, la optimización de las consultas, el uso adecuado de índices, nombrado coherente, comentarios.
 
 :books: Estructura del Proyecto\
-:file_folder:Proyecto: DataProject: Lógica. Consultas de SQL\
+:file_folder:Proyecto: DataProject_Lógica_Consultas_SQL\
 ├── :mag_right: Archivo SQL con las consultas resueltas: Proyecto_LogicaSQL.sql\
 ├── :bar_chart: El esquema de la BBDD: Diagrama_LogicaSQL.png\
 ├── :page_with_curl: Archivo README.md
